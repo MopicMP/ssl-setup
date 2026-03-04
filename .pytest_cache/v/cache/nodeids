@@ -1,0 +1,5 @@
+[
+  "tests/test_ssl_setup.py::TestSetup::test_basic",
+  "tests/test_ssl_setup.py::TestSetup::test_empty",
+  "tests/test_ssl_setup.py::TestSetup::test_type_error"
+]
